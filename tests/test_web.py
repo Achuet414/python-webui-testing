@@ -1,7 +1,6 @@
 """
 This module contains web test cases for the tutorial.
-Tests use Selenium WebDriver with Chrome and ChromeDriver.
-The fixtures set up and clean up the ChromeDriver instance.
+
 """
 
 import pytest
