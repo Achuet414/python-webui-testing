@@ -1,7 +1,7 @@
 """
 This module contains the first test case of the tutorial.
-It's a simple arithmetic check.
-Its purpose is to show how pytest works.
+#It's a simple arithmetic check.
+#Its purpose is to show how pytest works.
 """
 
 import pytest
